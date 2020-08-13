@@ -1,2 +1,4 @@
 **/*.md @ulfwestermark
 *.asciidoc @ulfwes1
+**/*.txt @ulfwestermark
+
