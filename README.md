@@ -1,3 +1,2 @@
 # codeowner-test
-
-master
+feature1
